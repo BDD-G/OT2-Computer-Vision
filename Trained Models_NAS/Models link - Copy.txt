@@ -1,0 +1,5 @@
+As the trained models were too large to upload on Github, the files had to be uploaded on Google Drive. The links to the files are below.
+
+average_model.pth ==> https://drive.google.com/file/d/1VbwNG9QkvhiKNpkBvVUmGUuyo6YiXvdk/view?usp=sharing
+ckpt_best.pth ==> https://drive.google.com/file/d/1XPc4e1gyOBGoK1aCCS8Wu2kcM8kH-QLr/view?usp=sharing
+ckpt_latest.pth ==> https://drive.google.com/file/d/1xfMzq1jIFFrOShpuUlwDFVRmyJhdTjoj/view?usp=sharing
