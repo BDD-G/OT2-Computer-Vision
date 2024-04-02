@@ -1,0 +1,1 @@
+We have uploaded only a few images as an example to the Github repository to reduce its size. However, the model is trained on a comparatively larger data set.
