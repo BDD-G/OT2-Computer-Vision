@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "pipet"
+    },
+    {
+      "id": 1,
+      "name": "red liquid"
+    },
+    {
+      "id": 2,
+      "name": "transparent liquid"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
