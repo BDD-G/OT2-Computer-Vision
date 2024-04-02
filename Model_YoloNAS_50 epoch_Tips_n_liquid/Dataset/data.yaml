@@ -1,0 +1,5 @@
+train: D:\Final Project\Yolo nas\Dataset\train\images
+val: D:\Final Project\Yolo nas\Dataset\valid\images
+
+nc: 2
+names: ["Tip", "Liquid"]
